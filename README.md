@@ -1,4 +1,4 @@
-# NEFA Landing Page
+# METAVERSE Landing Page
 
 Metaverse landing page template built using Nuxt 2 and Tailwindcss 3
 
