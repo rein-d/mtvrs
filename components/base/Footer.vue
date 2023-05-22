@@ -11,22 +11,16 @@
             </a>
           </div>
           <ul class="space-y-4">
-            <NavLink name="Cryptocurrency" url="#" />
-            <NavLink name="Exchanges" url="#" />
-            <NavLink name="Watchlist" url="#" />
-            <NavLink name="Portfolio" url="#" />
-            <NavLink name="NFT" url="#" />
+            <NavLink name="Youtube" url="https://www.youtube.com/@meta" />
+            <NavLink name="АФИША" url="https://xn--80aafkca5bdpa3bj2p.xn--p1ai/afisha/" />
+            <NavLink name="Новости" url="https://xn--80aafkca5bdpa3bj2p.xn--p1ai/news/" />
           </ul>
         </div>
         <div
           class="md:w-full lg:w-full lg:border-r w-full sm:w-1/2 xl:w-fit sm:px-16 py-6 sm:py-12 border-t sm:border-t xl:border-r border-[#DDDDDD]"
         >
           <ul class="space-y-4">
-            <NavLink name="Products" url="#" />
-            <NavLink name="About Us" url="#" />
-            <NavLink name="Careers" url="#" />
-            <NavLink name="Blog" url="#" />
-            <NavLink name="Security" url="#" />
+            <NavLink name="Products" url="https://xn--80aafkca5bdpa3bj2p.xn--p1ai/metaverses/" />
           </ul>
         </div>
         <div
@@ -45,7 +39,7 @@
         >
           <h5 class="text-sm font-medium text-[#666666] focus:outline-none focus:shadow-outline">Newsletter</h5>
           <p class="text-sm text-[#666666] focus:outline-none focus:shadow-outline">
-            Never miss anything crypto when <br class="sm:hidden" />you're on the go
+            Never miss anything META when <br class="sm:hidden" />you're on the go
           </p>
           <div class="flex items-center space-x-2">
             <input
@@ -63,7 +57,7 @@
       </div>
     </div>
     <div class="py-8 sm:py-4 text-center text-sm text-[#666666] hover:text-gray-900">
-      &copy; Copyright 2022 NEFA LLC. All rights reserved
+      &copy; Copyright 2023. All rights reserved
     </div>
   </footer>
 </template>
