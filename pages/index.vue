@@ -54,11 +54,12 @@
     <section class="w-full my-24">
       <BaseSection>
         <LandingBuyTradeImage class="sm:hidden mb-8" />
-        <div data-aos="fade-right" class="col-span-12 lg:col-span-6 mt-4 xl:mt-20 space-y-6 px-4">
-          <h2 class="text-5xl font-semibold sm:pr-8 xl:pr-12">
-            Новая Эра <br class="hidden sm:block" />
-            Технологического Развития
+        <div class="col-span-12 lg:col-span-5 space-y-6 px-4 sm:px-6 mt-20">
+          <h2 class="text-4xl font-semibold">
+            Новая эра <br class="hidden sm:block" />
+            Технологического развития
           </h2>
+          <br>
           <span class="text-base text-gradient font-semibold uppercase">
             Глубокая интеграция физического и цифрового мира
           </span>
