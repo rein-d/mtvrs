@@ -227,13 +227,7 @@ export default {
 }
 </script>
 <style scoped>
-.body {
-  background-image: url('../assets/img/main_backround.jpg');
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
+
 .text-header-gradient {
   background: rgb(57, 132, 244);
   background: linear-gradient(169.4deg, #3984f4 -6.01%, #0cd3ff 36.87%, #2f7cf0 78.04%, #0e65e8 103.77%);
